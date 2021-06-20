@@ -3,7 +3,7 @@
 void main()
 {
 	
-	int i,b[50],s,j,x;
+	int i,b[50],s,j,x; 
 	char a[50];
 	
 	printf("hello\nenter string=");
